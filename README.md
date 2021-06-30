@@ -18,7 +18,7 @@ We are beginning to become familiar with the interactive display of graphics usi
 ### Level 2
 
 - Exercise 1: 
-  - Implement a dashboard that interactively displays the data you choose..
+  - Implement a dashboard that interactively displays the data you choose.
 
 ### Level 3
 
